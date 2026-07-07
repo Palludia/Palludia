@@ -17,7 +17,7 @@
 ---
 ### Main Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,github,java,js,nodejs,react,ts,c,cs,nextjs,tailwind,supabase,svelte" />
+  <img src="https://skillicons.dev/icons?i=py,django,github,kotlin,java,js,nodejs,react,ts,c,cs,nextjs,tailwind,supabase,svelte" />
 </p>
 
 ### Studying
